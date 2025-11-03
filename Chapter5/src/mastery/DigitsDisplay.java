@@ -1,3 +1,21 @@
+/*
+
+Program: DigitsDiaplay.java          Last Date of this Revision: November 3, 2025
+
+Purpose: Create a DigitsDisplay application that prompts the user for a non-negative integer and then displays
+each digit on a separate line. Application output should look similar to
+
+Author: The student
+School: CHHS
+Course: Computer Science 20
+ 
+
+*/
+
+
+
+
+
 package mastery;
 
 import java.util.Scanner;
@@ -31,17 +49,22 @@ public class DigitsDisplay {
 		
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
 	}
 
 }
+
+/*Screen Dump
+Enter a non-negative integer: 8
+--------------------------------
+8
+--------------------------------
+
+*/
+
+
+
+
+
+
+

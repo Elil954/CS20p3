@@ -1,3 +1,17 @@
+/*
+
+Program: ????.java          Last Date of this Revision: November 3, 2025
+
+Purpose: Create an Investment application that calculates how many years it will take for a $2,500 investment
+to be worth at least $5,000 if compounded annually at 7.5%
+
+Author: The student
+School: CHHS
+Course: Computer Science 20
+ 
+
+*/
+
 package mastery;
 
 public class Investment {
@@ -43,17 +57,23 @@ public class Investment {
         System.out.println("The investment reached the target in " + years + " years.");
         System.out.printf("Final Balance: $%.2f\n", currentBalance);
         System.out.println("----------------------------------------");
-		
-		
-		
-		
-		
-		
-		
-		
-	
-		
+				
 
 	}
 
 }
+
+/*Screen Dump
+ * Investment Simulation Started
+Starting Investment: $2500.00
+Target Value: $5000.00
+Annual Interest Rate: 7.5%
+----------------------------------------
+
+
+
+*** Result ***
+The investment reached the target in 10 years.
+Final Balance: $5152.58
+----------------------------------------
+*/
