@@ -1,10 +1,28 @@
+
+/*
+
+Program: House.java          Last Date of this Revision: November 6, 2025
+
+Purpose: Create an IsoTriangle application that prompts the user for the size of an isosceles triangle and then
+displays the triangle with that many lines. The IsoTriangle application code should include:
+• the drawBar() method from the chapter.
+• An addSpaces() method which “prints” spaces.
+
+Author: The student
+School: CHHS
+Course: Computer Science 20
+ 
+
+*/
+
+
 package mastery;
 
 import java.util.Scanner;
 
 public class IsoTriangle {
-
 	
+
 		/**
 	     * Prints a specified number of spaces.
 	     * @param count The number of spaces to print.
@@ -55,7 +73,7 @@ public class IsoTriangle {
 	            System.out.println();
 	        }
 
-	        input.close();
+	      
 	    }
 	
 	}

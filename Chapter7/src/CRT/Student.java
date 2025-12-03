@@ -9,10 +9,10 @@ public class Student
 
 	public Student() //constructor method
 	{
-		firstName = "";
-		lastName =  "";
-		address = "####";
-		StuID = 00000
+		//firstName = "";
+		//lastName =  "";
+		//address = "####";
+		//StuID = 00000
 	}
 	
 }

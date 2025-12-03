@@ -1,3 +1,25 @@
+/*
+
+Program: House.java          Last Date of this Revision: November 6, 2025
+
+Purpose: Create a House application that calls methods addRoof(), addBase(), and addWalk() to display the
+following:
+
+Author: The student
+School: CHHS
+Course: Computer Science 20
+ 
+
+*/
+
+
+
+
+
+
+
+
+
 package mastery;
 
 public class House {
